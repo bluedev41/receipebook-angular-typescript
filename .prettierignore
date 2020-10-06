@@ -1,0 +1,4 @@
+# Ignore all package related files:
+angular.json
+package.json
+package-lock.json
