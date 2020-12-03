@@ -1,5 +1,9 @@
 # RecipebookAngular
 
+Hosted on Netlify ❤ - https://recipebook-darksj1998.netlify.app/ (App still in progress)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/af55c27c-159b-4fa7-bef5-cf3d37cd8aa4/deploy-status)](https://app.netlify.com/sites/recipebook-darksj1998/deploys)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
 ## Development server
